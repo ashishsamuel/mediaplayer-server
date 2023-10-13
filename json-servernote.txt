@@ -1,0 +1,15 @@
+
+
+Rest api with deployable json server
+
+
+1. create a server folder
+2. create a package.json file : npm  init -y
+3. install package to run json file : npm i json-server
+4. create .gitignore file, inorder to ignore node modules
+5. create a db.json file to store json data
+6. create index.js file to define json server
+    - import json-server in index.js file
+    - create json server using json-server library     
+7. 
+8. use of defaults() method of json-server for converting json data coming from frontend to js 

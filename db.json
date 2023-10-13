@@ -1,0 +1,108 @@
+{
+  "videos": [
+    {
+      "id": "2",
+      "caption": "Jawan",
+      "url": "https://st1.latestly.com/wp-content/uploads/2023/02/Jawan-Postponed.jpg",
+      "embedlink": "https://www.youtube.com/embed/COv52Qyctws"
+    },
+    {
+      "id": "1",
+      "caption": "Aaadujeevitham",
+      "url": "https://assets.gadgets360cdn.com/pricee/assets/product/202302/Aadujeevitham_1676011855.jpg",
+      "embedlink": "https://www.youtube.com/embed/cczDklKBVnk"
+    },
+    {
+      "id": "3",
+      "caption": "Neela Nilave",
+      "url": "https://ostpk.com/wp-content/uploads/2023/08/Neela-Nilave-Lyrics-Kapil-Kapilan-Wo-Lyrics.jpg",
+      "embedlink": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "4",
+      "caption": "Naa Ready Thaan",
+      "url": "https://img.youtube.com/vi/szvt1vD0Uug/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/szvt1vD0Uug"
+    },
+    {
+      "id": "5",
+      "caption": "Super Mario",
+      "url": "https://images.launchbox-app.com/0f633ee3-5665-4128-a28b-9dfad23db4ff.jpg",
+      "embedlink": "https://www.youtube.com/embed/rLl9XBg7wSs"
+    },
+    {
+      "id": "6",
+      "caption": "Contra",
+      "url": "https://i.ytimg.com/vi/k7vcUei5u2E/maxresdefault.jpg",
+      "embedlink": "https://www.youtube.com/embed/888vbCs9wLY"
+    },
+    {
+      "id": "7",
+      "caption": "Hrithik Roshan Dance",
+      "url": "https://www.wallpaperbetter.com/wallpaper/484/735/728/hrithik-roshan-dance-in-bang-bang-1080P-wallpaper.jpg",
+      "embedlink": "https://www.youtube.com/embed/mEzGC3Yk9Fg"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Aaadujeevitham",
+          "url": "https://assets.gadgets360cdn.com/pricee/assets/product/202302/Aadujeevitham_1676011855.jpg",
+          "embedlink": "https://www.youtube.com/embed/cczDklKBVnk"
+        },
+        {
+          "id": "2",
+          "caption": "Jawan",
+          "url": "https://st1.latestly.com/wp-content/uploads/2023/02/Jawan-Postponed.jpg",
+          "embedlink": "https://www.youtube.com/embed/COv52Qyctws"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Music",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "Neela Nilave",
+          "url": "https://ostpk.com/wp-content/uploads/2023/08/Neela-Nilave-Lyrics-Kapil-Kapilan-Wo-Lyrics.jpg",
+          "embedlink": "https://www.youtube.com/embed/nYEoxne_20Y"
+        },
+        {
+          "id": "4",
+          "caption": "Naa Ready Thaan",
+          "url": "https://img.youtube.com/vi/szvt1vD0Uug/maxresdefault.jpg",
+          "embedlink": "https://www.youtube.com/embed/szvt1vD0Uug"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Games",
+      "allVideos": [],
+      "id": 3
+    },
+    {
+      "categoryName": "Dance",
+      "allVideos": [],
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "caption": "Naa Ready Thaan",
+      "embedlink": "https://www.youtube.com/embed/szvt1vD0Uug",
+      "timeStamp": "10/13/2023, 11:27:19 AM",
+      "id": 1
+    },
+    {
+      "caption": "Neela Nilave",
+      "embedlink": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "timeStamp": "10/13/2023, 11:27:34 AM",
+      "id": 2
+    }
+  ]
+}
